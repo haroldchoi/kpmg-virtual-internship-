@@ -1,6 +1,6 @@
 # kpmg-virtual-internship
 
-### In this virtual internship experience, I assessed the data quality and completeness of a company specialising in the sales of branded bicycles. There were 3 datasets included namely the customer demographic, customer transaction and transaction data. The customer demographic dataset included customer details like date of birth, name, gender, job, job title and wealth segment. The customeraddress included address and state. Lastly, the transaction dataset included branch purhcased, cost, price, margins for each product. 
+### In this virtual internship experience, I assessed the data quality and completeness of a company specialising in the sales of branded bicycles. There were 3 datasets included namely the customer demographic, customer transaction and transaction data. The customer demographic dataset included customer details like date of birth, name, gender, job, job title and wealth segment. The customer address included address and state. Lastly, the transaction dataset included brand purchased, cost, price, margins for each product. 
 
 ### The dataset were joined using transaction id and customer id. After removing duplicates, cleaning the unneccessary columnns, inputting age the datasets were joined and ready for analysis. 
 
